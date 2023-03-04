@@ -1,9 +1,9 @@
 <img src="ln-2.jpg">
-<br>
+
 
 
 ### About Me
-<br>
+
 Hello and welcome to my profile! I'm Kyle and I am currently studying for a level 5 diploma in full stack web devlopment course at Code Institute!
 I have always had an inquisitive mind, which led me to obtain an MSc in Stem Cell Biology. However I wanted to apply more of my problem solving and creative passion into a job that I love. From what I have learnt so far, coding does just that!
 
