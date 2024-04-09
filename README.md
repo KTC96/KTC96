@@ -35,8 +35,7 @@ I'm currently learning
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktc96&layout=donut&theme=github_dark_dimmed&bg_color=1D242E&title_color=B7BDC6&text_color=a4aacb&icon_color=3F6FFF)](https://github.com/anuraghazra/github-readme-stats)
-![Statisctics Summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KTC96&theme=city_lights)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTC96)](https://github.com/anuraghazra/github-readme-stats)
 
 **Check out my projects! :point_down:**
 
