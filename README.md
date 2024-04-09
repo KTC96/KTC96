@@ -8,8 +8,9 @@ I have always had an inquisitive mind, which led me to obtain an MSc in Stem Cel
 
 Outside of the work environment I love to get creative by recording DJ mixes as well as producing my own music. One of my major passions is travelling the world, with 43 countires ticked off the map so far!
 
+
 ### Contact Me
-<br>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-clow-43471b130/)
 
@@ -17,13 +18,13 @@ Phone number: +447746521487
 
 Email: [kyleclow96@gmail.com](mailto:kyleclow96@gmail.com)
 
+
 ### CV
-<br>
 
 View My CV: [Click Here](kyle_clow_tech_cv.pdf)
 
+
 ### My Tech Stack
-<br>
 
 I'm currently learning
 
