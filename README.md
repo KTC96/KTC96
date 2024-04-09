@@ -1,7 +1,5 @@
 <img src="ln-2.jpg">
 
-
-
 ### About Me
 
 Hello and welcome to my profile! I'm Kyle and I am currently studying for a level 5 diploma in full stack web devlopment course at Code Institute!
@@ -14,22 +12,17 @@ Outside of the work environment I love to get creative by recording DJ mixes as 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-clow-43471b130/) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T0L30B202/CD78T21LK/rimeto_profile/U046PJC0K0V)
 
+View My CV :outbox_tray:
+
+[Click Here]()
+
 ### My Tech Stack
 
 I'm currently learning
 
 ![SVELTE](https://img.shields.io/badge/SVELTE-1572B6?style=for-the-badge&logo=svelte&logoColor=white)
 
-
-Reach out :point_down:   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](www.linkedin.com/in/kyle-clow/)
-
-View My CV :outbox_tray:
-
-[Click Here]()
-
-
-## Skill Stack
+## Proficient in
 
 | Category      | Skills |
 | ----------- | ----------- |
