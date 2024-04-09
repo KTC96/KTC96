@@ -16,9 +16,9 @@ Phone number: +447746521487
 
 [Email: kyleclow96@gmail.com](mailto:kyleclow96@gmail.com)
 
-View My CV :outbox_tray:
+### CV
 
-[Click Here](kyle_clow_tech_cv.pdf)
+View My CV: [Click Here](kyle_clow_tech_cv.pdf)
 
 ### My Tech Stack
 
