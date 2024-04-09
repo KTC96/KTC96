@@ -29,7 +29,7 @@ View My CV: [Click Here](kyle_clow_tech_cv.pdf)
 I'm currently learning
 
 [![SVELTE](https://img.shields.io/badge/SVELTE-1572B6?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-1572B6?style=for-the-badge&logo=tailwind&logoColor=white)]
+[![Tailwind](https://img.shields.io/badge/Tailwind-23F24E1E?style=for-the-badge&logo=tailwind&logoColor=white)](https://tailwindcss.com/)
 
 ## Proficient in
 
