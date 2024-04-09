@@ -10,7 +10,9 @@ Outside of the work environment I love to get creative by recording DJ mixes as 
 ### Contact Me
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-clow-43471b130/) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://app.slack.com/client/T0L30B202/CD78T21LK/rimeto_profile/U046PJC0K0V)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-clow-43471b130/)
+[Phone number](tel:+447746521487)
+[Email:](mailto:kyleclow96@gmail.com)
 
 View My CV :outbox_tray:
 
