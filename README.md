@@ -1,6 +1,7 @@
 <img src="ln-2.jpg">
 
 ### About Me
+<br>
 
 Hello and welcome to my profile! I'm Kyle and I have recently finished my level 5 diploma in full stack web devlopment course at Code Institute!
 I have always had an inquisitive mind, which led me to obtain an MSc in Stem Cell Biology. However I wanted to apply more of my problem solving and creative passion into a job that I love. From what I have learnt so far, coding does just that!
@@ -17,10 +18,12 @@ Phone number: +447746521487
 Email: [kyleclow96@gmail.com](mailto:kyleclow96@gmail.com)
 
 ### CV
+<br>
 
 View My CV: [Click Here](kyle_clow_tech_cv.pdf)
 
 ### My Tech Stack
+<br>
 
 I'm currently learning
 
