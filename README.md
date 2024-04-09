@@ -5,7 +5,7 @@
 Hello and welcome to my profile! I'm Kyle and I am currently studying for a level 5 diploma in full stack web devlopment course at Code Institute!
 I have always had an inquisitive mind, which led me to obtain an MSc in Stem Cell Biology. However I wanted to apply more of my problem solving and creative passion into a job that I love. From what I have learnt so far, coding does just that!
 
-Outside of the work environment I love to get creative by recording DJ mixes as well as producing my own music. I am currently learning how to create audiovisual art with code. One of my major passions is travelling the world, with 40 countires ticked off the map so far!
+Outside of the work environment I love to get creative by recording DJ mixes as well as producing my own music. One of my major passions is travelling the world, with 43 countires ticked off the map so far!
 
 ### Contact Me
 <br>
