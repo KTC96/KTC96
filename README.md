@@ -14,7 +14,7 @@ Outside of the work environment I love to get creative by recording DJ mixes as 
 
 View My CV :outbox_tray:
 
-[Click Here]()
+[Click Here](kyle_clow_tech_cv.pdf)
 
 ### My Tech Stack
 
