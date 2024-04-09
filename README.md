@@ -14,7 +14,7 @@ Outside of the work environment I love to get creative by recording DJ mixes as 
 
 Phone number: +447746521487
 
-[Email: kyleclow96@gmail.com](mailto:kyleclow96@gmail.com)
+Email:[kyleclow96@gmail.com](mailto:kyleclow96@gmail.com)
 
 ### CV
 
